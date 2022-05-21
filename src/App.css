@@ -1,0 +1,376 @@
+.App {
+    background-color: white;
+}
+
+.box-1 {
+    height: 88px;
+    width: 411px;
+    display: flexbox;
+    background-color: whitesmoke;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 34px;
+    stroke: black;
+}
+
+.rectangle-1 {
+    height: 30px;
+    width: 439px;
+    display: flexbox;
+    background-color: white;
+    padding: 34px;
+    margin: -48px;
+    border-top-left-radius: 34px;
+    border-top-right-radius: 34px;
+    stroke-width: 1;
+}
+
+.face-1 {
+    height: 79px;
+    width: 79px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 17px;
+    margin-top: -28px;
+}
+
+.img-1 {
+    height: 59px;
+    width: 59px;
+    border-radius: 50%;
+    display: subgrid;
+    margin-left: 11px;
+    margin-top: 11px;
+    background-image: url("./assets/face1.png");
+}
+
+.name {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: gray;
+    margin-left: 166px;
+    margin-top: -74px;
+    font-size: xx-large;
+}
+
+.phone {
+    margin-left: 202px;
+    margin-top: 1px;
+    font-size: small;
+    font-style: italic;
+}
+
+.img-2 {
+    height: 22px;
+    width: 20px;
+    margin-left: 158px;
+    margin-top: 2px;
+    background-image: url("./assets/🔹-Primary-Color.png");
+}
+
+.button {
+    cursor: pointer;
+    border: 2px;
+    height: 56px;
+    width: 168px;
+    margin-left: 230px;
+    margin-top: -56px;
+    background-image: url("./assets/CompositeLayer.png");
+}
+
+.img-3 {
+    cursor: pointer;
+    height: 55px;
+    width: 167px;
+    margin-left: -1px;
+    margin-top: 41px;
+    background-image: url("./assets/decline.png");
+}
+
+.page-1 {
+    height: 519px;
+    width: 237px;
+    display: flexbox;
+    background-color: white;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 34px;
+    border: solid black;
+}
+
+.name-1 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: gray;
+    margin-left: 38px;
+    margin-top: -258px;
+    font-size: xx-large;
+}
+
+.face-2 {
+    height: 172px;
+    width: 172px;
+    margin-top: 49px;
+    margin-left: 29px;
+    background-image: url("./assets/face2.png");
+}
+
+.phone-1 {
+    margin-left: 79px;
+    margin-top: 5px;
+    font-style: italic;
+    font-size: small;
+}
+
+.img-4 {
+    height: 22px;
+    width: 20px;
+    margin-left: 53px;
+    margin-top: -17px;
+    background-image: url("./assets/🔹-Primary-Color.png");
+}
+
+.time {
+    height: 16px;
+    width: 26px;
+    margin-top: 203px;
+    margin-left: 89px;
+    font-size: medium;
+    color: darkslategray;
+    font-family: sans-serif;
+}
+
+.template-1 {
+    height: 281px;
+    width: -moz-fit-content;
+    width: 259px;
+    border-radius: 30px;
+    color: whitesmoke;
+    border: solid whitesmoke;
+    margin-left: -16px;
+}
+
+.e-1 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: -12px;
+    margin-top: 9px;
+}
+
+.e-2 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 8px;
+    margin-top: 13px;
+}
+
+.e-3 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 8px;
+    margin-top: 13px;
+}
+
+.e-4 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: -13px;
+    margin-top: 13px;
+}
+
+.e-5 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 8px;
+    margin-top: 13px;
+}
+
+.e-6 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    margin-left: 8px;
+    margin-top: 13px;
+}
+
+.icon-1 {
+    height: 27px;
+    width: 25px;
+    margin-left: 25px;
+    margin-top: 24px;
+    background-image: url("/src/assets/🔹Icon-Color.png");
+}
+
+.icon-2 {
+    height: 27px;
+    width: 28px;
+    margin-left: 25px;
+    margin-top: 24px;
+    background-image: url("/src/assets/pause.png");
+}
+
+.icon-3 {
+    height: 19px;
+    width: 36px;
+    margin-left: 21px;
+    margin-top: 27px;
+    background-image: url("/src/assets/forward.png");
+}
+
+.icon-4 {
+    height: 36px;
+    width: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url("/src/assets/Rectangle159.png");
+}
+
+.icon-5 {
+    height: 36px;
+    width: 35px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url("/src/assets/Icons.png");
+}
+
+.icon-6 {
+    height: 32px;
+    width: 32px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url("/src/assets/tag.png");
+}
+
+.rectangle-2 {
+    height: 30px;
+    width: 283px;
+    display: flexbox;
+    background-color: whitesmoke;
+    padding: 26px;
+    margin-left: -49px;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+    stroke-width: 5;
+    margin-top: 24px;
+}
+
+.t-1 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 24px;
+    margin-left: 17px;
+}
+
+.t-2 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 24px;
+    margin-left: 23px;
+}
+
+.t-3 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 26px;
+    margin-left: 9px;
+}
+
+.t-4 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 24px;
+    margin-left: 23px;
+}
+
+.t-5 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 24px;
+    margin-left: 9px;
+}
+
+.t-6 {
+    font-size: medium;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: 24px;
+    margin-left: 28px;
+}
+
+.contacts {
+    height: 40px;
+    width: 36px;
+    margin-top: -42px;
+    margin-left: -12px;
+    background-image: url("./assets/1.png");
+}
+
+.logs {
+    height: 36px;
+    width: 42px;
+    margin-top: -38px;
+    margin-left: 42px;
+    background-image: url("./assets/log.png");
+}
+
+.keypad {
+    height: 38px;
+    width: 28px;
+    margin-top: -35px;
+    margin-left: 255px;
+    background-image: url("./assets/key.png");
+}
+
+.t-7 {
+    font-size: small;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: -1px;
+    margin-left: -14px;
+}
+
+.t-8 {
+    font-size: small;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: -15px;
+    margin-left: 51px;
+}
+
+.t-9 {
+    font-size: small;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: #33475b;
+    margin-top: -16px;
+    margin-left: 249px;
+}
+
+.cut {
+    height: 77px;
+    width: 77px;
+    background-image: url("./assets/Cut.png");
+    margin-left: 93px;
+    margin-top: -44px;
+    border-radius: 20px;
+}
